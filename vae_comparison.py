@@ -248,4 +248,4 @@ if __name__ == "__main__":
             image_path = input("Please enter the path to your image: ")
     
     # Process the image
-    process_image_with_both_vaes(image_path, "vae_comparison_result_a1.jpg")
+    process_image_with_both_vaes(image_path, "vae_comparison_result.jpg")
